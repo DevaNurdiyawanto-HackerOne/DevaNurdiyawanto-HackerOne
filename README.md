@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @DevaNurdiyawanto-HackerOne
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🖥 Hi, I’m @DevaNurdiyawanto-HackerOne
+
+*Run This Script : Linux, Debian, Ubuntu, Windows*
+
+⚠️
+Termux is Not Compatible !
+
+Anonymous Indonesia 🇮🇩
 
 <!---
 DevaNurdiyawanto-HackerOne/DevaNurdiyawanto-HackerOne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
