@@ -1,0 +1,3 @@
+sudo pip2 install pyscreenshot
+sudo pip2 install python-nmap
+sudo pip2 install requests
